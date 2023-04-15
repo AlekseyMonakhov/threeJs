@@ -61,7 +61,7 @@ const Customizer = () => {
         try {
             setGeneratingImg(true);
 
-            const response = await fetch('http://localhost:8080/api/v1/dalle', {
+            const response = await fetch('https://threejs-d8ev.onrender.com/api/v1/dalle', {
                 method: "POST",
                 headers: {
                     "Content-type":"application/json"
