@@ -18,6 +18,7 @@
     "react-color": "^2.19.3",
     "react-dom": "^18.2.0",
     "three": "^0.151.3",
+    "use-asset": "^1.0.4",
     "valtio": "^1.10.4"
   },
   "devDependencies": {
